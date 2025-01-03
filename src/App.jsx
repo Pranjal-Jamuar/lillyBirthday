@@ -266,7 +266,7 @@ const LilyBloomAnimation = () => {
           }}
         >
           <img
-            src='../src/assets/images/image-1.jpg'
+            src='/images/image-1.jpg'
             alt='Collage Image 1'
             style={{
               height: "150px",
@@ -276,7 +276,7 @@ const LilyBloomAnimation = () => {
             }}
           />
           <img
-            src='./src/assets/images/image-3.jpg'
+            src='/images/image-3.jpg'
             alt='Collage Image 2'
             style={{
               height: "150px",
@@ -286,7 +286,7 @@ const LilyBloomAnimation = () => {
             }}
           />
           <img
-            src='./src/assets/images/image-2.jpg'
+            src='/images/image-2.jpg'
             alt='Collage Image 3'
             style={{
               height: "100px",
@@ -296,7 +296,7 @@ const LilyBloomAnimation = () => {
             }}
           />
           <img
-            src='./src/assets/images/image-4.jpg'
+            src='/images/image-4.jpg'
             alt='Collage Image 4'
             style={{
               height: "100px",
